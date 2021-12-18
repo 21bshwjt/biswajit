@@ -1,10 +1,10 @@
 # biswajit
 
 Arctic Code Vault Contributor | Github
-<> Operating Systems : Windows & Linux | IAM Automation(PowerShell) GUY.
-<> Enthusiastic Systems/Automation Engineer of Systems Operations , Administration & Engineering experience ( Active Directory , Azure Active Directory (AAD),DNS, PKI , Windows & Automation ) .
-<> Azure Functions App with PowerShell Stack(Runtime).
-<> Enhancing the Org. Windows Environment Security with Azure MDATP.
+#### Operating Systems : Windows & Linux | IAM Automation(PowerShell) GUY.
+#### Enthusiastic Systems/Automation Engineer of Systems Operations , Administration & Engineering experience ( Active Directory , Azure Active Directory (AAD),DNS, PKI , Windows & Automation ) .
+#### Azure Functions App with PowerShell Stack(Runtime).
+#### Enhancing the Org. Windows Environment Security with Azure MDATP.
 <> Identity & Access Management: Managing Global Active Directory, DNS, Group Policy & PKI (Microsoft) on Windows Platforms.
 <> Microsoft Defender Advanced Threat Protection (Antivirus) & Azure Log analytics & KQL.
 <> Automation & Monitoring: Windows PowerShell & PowerShell Core , DSC, Pester, JEA , Polaris http API, PSWRITEHTML & SQLite. 
