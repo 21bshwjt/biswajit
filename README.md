@@ -25,6 +25,6 @@ _______________________________________
 ____________________________________________
 
 ### Github Profile
-https://github.com/21bshwjt
-###Technet Profile
-https://social.technet.microsoft.com/Profile/bshwjt
+### https://github.com/21bshwjt
+### Technet Profile
+### https://social.technet.microsoft.com/Profile/bshwjt
